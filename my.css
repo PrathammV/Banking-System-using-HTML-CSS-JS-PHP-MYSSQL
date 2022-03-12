@@ -1,0 +1,42 @@
+
+html {
+    font-size: 30px;
+  }
+
+  
+  h1{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-style: italic;
+    font-size: 55px;
+    font-weight:55px;
+    color: aliceblue;
+    
+}
+
+p
+{    font-family: 'Staatliches', cursive;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 35;
+    color: antiquewhite;
+}
+
+h2{
+    
+    font-family: 'Fantasy', cursive;
+    font-style: italic;
+    font-size: 45px;
+    font-weight: 45;
+    color: beige;
+}
+
+
+h3{
+
+    font-family:  'Pangolin', cursive;
+    font-style:italic;
+    font-size: 35px;
+    color: aqua;
+}
+
